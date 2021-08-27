@@ -1,1 +1,1 @@
-# FPGA-Academic---DE1-Soc
+# FPGA-Academic-DE1-Soc
